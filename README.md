@@ -1,3 +1,2 @@
-# Stephen Feagin
-
-Welcome to my website:
+# stephenfeagin.github.io
+Welcome to my website!
